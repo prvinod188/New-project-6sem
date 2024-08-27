@@ -1,1 +1,6 @@
-.
+JSON FILE
+
+{
+  "operation": "listProduct"
+}
+
